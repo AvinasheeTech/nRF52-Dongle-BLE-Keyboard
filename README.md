@@ -23,10 +23,10 @@ It enables wireless communication with computers, smartphones, or any BLE-compat
 Whether you're building a custom input device, a wireless macro pad, or experimenting with BLE HID profiles, this firmware provides
 a lightweight, modular foundation to get started quickly.
 
-Platform used for firmware development is nRF Connect SDK on VSCode.
+Platform used for firmware development is nRF Connect SDK on VSCode.  
 Learn more 👇👇  
   
-[![BLE KeyBoard Youtube Video](img/nrf52 ble kb thumbnail.png)](https://youtu.be/0vzwbgLEY-s?si=kmnJE1kYjhTBlR5s)
+[![BLE KeyBoard Youtube Video](img/nrf52blekbthumbnail.png)](https://youtu.be/0vzwbgLEY-s?si=kmnJE1kYjhTBlR5s)
 
 ## ✔️ Requirements
 
@@ -53,7 +53,7 @@ Enjoy...🍹
 ```
 To learn more about how to upload code to nRF52840 Dongle using VSCode and nRF Connect SDK, click link below 👇👇  
 
-[![nRF5240 Dongle Youtube Video](img/nrf52840 thumbnail.png)](https://youtu.be/TeBvb645NZA?si=z5goAc1ic0ipf2cX)
+[![nRF5240 Dongle Youtube Video](img/nrf52840thumbnail.png)](https://youtu.be/TeBvb645NZA?si=z5goAc1ic0ipf2cX)
 
 
 ## ⭐️ Show Your Support
