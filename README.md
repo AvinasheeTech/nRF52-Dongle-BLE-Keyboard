@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://www.youtube.com/@eccentric_engineer">
 	<img
-		width="180"
+		width="200"
 		alt="Avinashee Tech"
 		src="img/Avinashee Tech Logo New.png">
   </a>  
@@ -44,7 +44,7 @@ Learn more 👇👇
 
 ```sh
 git clone https://github.com/AvinasheeTech/nRF52-BLE-HID-Keyboard.git
-Open porject in VSCode
+Open project in VSCode
 Add Build Configuration -> Select nrf52840dongle_nrf52840 as board target -> Generate and Build
 Open nRF Connect For Desktop App
 Next Select Programmer -> Put Board in Bootloader mode -> Select Device -> Upload zephyr.hex output file from Build Directory of Project
