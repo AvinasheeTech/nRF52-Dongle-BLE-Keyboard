@@ -3,7 +3,7 @@
 	<img
 		width="300"
 		alt="Avinashee Tech"
-		src="img/Avinashee Tech Logo New.jpg">
+		src="img/Avinashee Tech Logo New.png">
   </a>  
 </h1>
 
@@ -44,15 +44,16 @@ Learn more 👇👇
 
 ```sh
 git clone https://github.com/AvinasheeTech/nRF52-BLE-HID-Keyboard.git
-cd nRF52-BLE-HID-Keyboard/
-Open 
-Select main.c file and click on Build
-Next Upload code 
+Open porject in VSCode
+Add Build Configuration -> Select nrf52840dongle_nrf52840 as board target -> Generate and Build
+Open nRF Connect For Desktop App
+Next Select Programmer -> Put Board in Bootloader mode -> Select Device -> Upload zephyr.hex output file from Build Directory of Project
+Turn on Bluetooth on PC/Mobile Device -> Connect with Avinashee Tech Device -> Check for Connected Status with 100% Battery 
 Enjoy...🍹
 ```
-To learn more about how to upload code and create external tool for ATtiny85 on Atmel Studio, click link below 👇👇  
+To learn more about how to upload code to nRF52840 Dongle using VSCode and nRF Connect SDK, click link below 👇👇  
 
-[![USBasp Youtube Video](https://img.youtube.com/vi/PY9RVh3wAJM/0.jpg)](https://youtu.be/PY9RVh3wAJM?si=SjmBTnHeOB7SD06J)
+[![nRF5240 Dongle Youtube Video](https://img.youtube.com/vi/TeBvb645NZA/0.jpg)](https://youtu.be/TeBvb645NZA?si=z5goAc1ic0ipf2cX)
 
 
 ## ⭐️ Show Your Support
