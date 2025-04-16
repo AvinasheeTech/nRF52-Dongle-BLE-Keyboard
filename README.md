@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://www.youtube.com/@eccentric_engineer">
 	<img
-		width="300"
+		width="180"
 		alt="Avinashee Tech"
 		src="img/Avinashee Tech Logo New.png">
   </a>  
